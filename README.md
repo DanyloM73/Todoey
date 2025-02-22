@@ -1,19 +1,29 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+# Todoey
 
+### A simple iOS/iPadOS todo app
 
-# Todoey ✓
+## Used technologies and tools
 
-## Our Goal
+- Swift
+- UIKit
+- UITableView
+- Realm
+- SwipeCellKit
 
-The objective of this tutorial is to understand how to save data in iOS. We'll look at various choices and learn to use UserDefaults, Core Data and Realm.
+*This project was developed as part of The Complete iOS App Development Bootcamp by London App Brewery*
 
+*Minimum supported OS version is 13.0*
 
-## What you will create
+## Illustrations
 
-A todolist app to keep track of all your tasks.
+### Main screen:
 
+<img src="Documentation/1.png" alt="Start screen" width="300">
 
->This is a companion project to The App Brewery's Complete iOS Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+### Category screen:
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+<img src="Documentation/2.png" alt="Start screen" width="300">
 
+### Search in category screen:
+
+<img src="Documentation/3.png" alt="Start screen" width="300">
