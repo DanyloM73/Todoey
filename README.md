@@ -6,6 +6,7 @@
 
 - Swift
 - UIKit
+- MVC design pattern
 - UITableView
 - Realm
 - SwipeCellKit
